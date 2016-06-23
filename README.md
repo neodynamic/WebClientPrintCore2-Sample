@@ -5,3 +5,6 @@
 
 ## The WebClientPrintCore2-Sample Repository
 This ASP.NET Core MVC Website is a sample project to getting you started with WebClientPrint for ASP.NET Core Solution
+
+## Know How WebClientPrint for ASP.NET Core Works
+Refer to the [Online Help Documentation](http://www.neodynamic.com/Products/Help/WebClientPrintCore2.0/index.html)
