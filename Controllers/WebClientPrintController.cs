@@ -11,7 +11,7 @@ namespace WCPASPNETCOREWebSiteTest.Controllers
     public class WebClientPrintController : Controller
     {
         //IMPORTANT NOTE >>>>>>>>>>
-        // We're going to use MemoryCache to store users related staff like
+        // We're going to use MemoryCache to store users related stuff like
         // the list of printers and they have the WCPP client utility installed
         // BUT you can change it based on your dev needs!!!
         // For instance, you could use a Distributed Cache instead!
